@@ -16,7 +16,7 @@ def get_requirements(file_path:str)->List[str]:
             requirements.remove(HYPHEN_E_DOT)
 
 setup(
-    name='aws-ci-cd',
+    name='aws_ci_cd',
     version='0.0.1',
     author='Vishal',
     author_email='vishaljuyal1@gmail.com',
